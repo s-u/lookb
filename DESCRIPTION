@@ -1,0 +1,7 @@
+Package: lookb
+Title: Binary Search in Text Files
+Version: 1.0-0
+Author: Simon Urbanek <simon.urbanek@R-project.org>
+Maintainer: Simon Urbanek <simon.urbanek@R-project.org>
+Description: Implements binary search on text files via mmap.
+License: MIT
